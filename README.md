@@ -1,6 +1,6 @@
-# Hello there 👋, I'm Vishal But
+# Hello there 👋, I'm Vishal
 
-### Technology Strategy & Architecture: 
+### Developer, Technology Strategy, Architecture and Engineering Leader: 
 - Enterprise architecture (TOGAF, SOA), cloud strategy (AWS Certified), Services (Event-driven, API design, microservices, ELK), security (OWASP, OAuth 2.0).
 - Software Development & Data: Hands-on coding (Python, Java), SQL, data structures and algorithms (recursion, linked lists, binary trees), databases (PostgreSQL, MongoDB).
 - Agile, Cloud and DevOps: Agile methodologies (Scrum, Kanban, SAFe), DevOps practices, continuous integration/delivery (CI/CD, k8s), test automation (Selenium, JUnit).
