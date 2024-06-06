@@ -1,13 +1,11 @@
 # Hello there 👋, I'm Vishal But
 
-### Software/DevOps/Cloud Engineer
-
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
-
+### Technology Strategy & Architecture: 
+- Enterprise architecture (TOGAF, SOA), cloud strategy (AWS Certified), Services (Event-driven, API design, microservices, ELK), security (OWASP, OAuth 2.0).
+- Software Development & Data: Hands-on coding (Python, Java), SQL, data structures and algorithms (recursion, linked lists, binary trees), databases (PostgreSQL, MongoDB).
+- Agile, Cloud and DevOps: Agile methodologies (Scrum, Kanban, SAFe), DevOps practices, continuous integration/delivery (CI/CD, k8s), test automation (Selenium, JUnit).
+- AI and Emerging Technologies: Playground implementation with Llama LLM with RAD and Fine-tuning.- 🧧 Chinese name: __畢少謙__
+- ⚡ Fun fact: Been to Everest Base Camp
 <br/>
 
 
