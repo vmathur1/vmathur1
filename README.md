@@ -23,7 +23,7 @@
             <a href="https://github.com/vmathur1">🌐</a>
         </td>
         <td>
-            <a href="">📃</a>
+            <a href="https://github.com/vmathur1/vmathur1/blob/main/Vishal_Mathur_resume.pdf">📃</a>
         </td>
     </tr>
 </table>
