@@ -2,9 +2,9 @@
 
 ### Developer, Technology Strategy, Architecture and Engineering Leader: 
 - Enterprise architecture (TOGAF, SOA), cloud strategy (AWS Certified), Services (Event-driven, API design, microservices, ELK), security (OWASP, OAuth 2.0).
-- Software Development & Data: Hands-on coding (Python, Java), SQL, data structures and algorithms (recursion, linked lists, binary trees), databases (PostgreSQL, MongoDB).
+- Software Development & Data: Hands-on coding (Python, Java), SQL, Data structures and algorithms (recursion, linked lists, binary trees), databases (PostgreSQL, MongoDB).
 - Agile, Cloud and DevOps: Agile methodologies (Scrum, Kanban, SAFe), DevOps practices, continuous integration/delivery (CI/CD, k8s), test automation (Selenium, JUnit).
-- AI and Emerging Technologies: Playground implementation with Llama LLM with RAD and Fine-tuning.- 🧧 Chinese name: __畢少謙__
+- AI and Emerging Technologies: Playground implementation with Llama LLM with RAD and Fine-tuning.- 🧧 Chinese name: 围医嗄勒
 - ⚡ Fun fact: Been to Everest Base Camp
 <br/>
 
@@ -32,9 +32,7 @@
 
 ### Contact me:
 
-<a href="https://twitter.com/Vishal_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/Vishalbut/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://www.pinterest.co.uk/Vishalbut"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/vishi/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
